@@ -8,6 +8,7 @@
 
 ## Project Overview
 
+## [![Click Here](https://img.shields.io/badge/Click_Here-Live_App-00bfa6)](https://sachinpcd.github.io/OIBSIP_Web_Development_and_Designing_Level2_task1/)
 This repository presents an **Advanced Calculator** built as a showcase for the Oasis Infobyte "Web Development and Designing" internship task. The calculator delivers a modern, intuitive interface with support for core mathematical operations—addition, subtraction, multiplication, division—as well as advanced features like percentage, parentheses, square, and square root calculations.  
 All components are crafted with **HTML**, **CSS**, and **JavaScript**, following responsive and professional UI/UX principles.
 
